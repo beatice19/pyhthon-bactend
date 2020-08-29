@@ -109,4 +109,4 @@ def delete_blog(id):
 
 
 if __name__ == "__main__":
-    app.run(port=6077, debug=True)
+    app.run(port=6077)
